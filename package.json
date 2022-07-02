@@ -1,12 +1,8 @@
 {
-  "name": "react-currency-formatter",
+  "name": "react-format-currencies",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "tsc --watch",
-    "init": "tsc --init"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jochem-Groeneweg/react-currency-formatter.git"
@@ -17,7 +13,7 @@
     "url": "https://github.com/Jochem-Groeneweg/react-currency-formatter/issues"
   },
   "homepage": "https://github.com/Jochem-Groeneweg/react-currency-formatter#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^18.2.0",
     "react-router": "^6.3.0"
   }
