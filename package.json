@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Jochem-Groeneweg/react-currency-formatter.git"
   },
-  "author": "",
+  "author": "Jochem Groeneweg",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Jochem-Groeneweg/react-currency-formatter/issues"
