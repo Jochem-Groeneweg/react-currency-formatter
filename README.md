@@ -9,8 +9,8 @@
   <a href="https://github.com/Jochem-Groeneweg/react-currency-formatter/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Jochem-Groeneweg/react-currency-formatter/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/Jochem-Groeneweg/react-currency-formatter" />
+  <a href="https://github.com/Jochem-Groeneweg/react-currency-formatter/blob/main/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/Jochem-Groeneweg/react-currency-formatter" />
   </a>
 </p>
 
@@ -345,7 +345,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Jochem Groeneweg](https://github.com/Jochem-Groeneweg).<br />
-This project is [ISC](https://github.com/Jochem-Groeneweg/react-currency-formatter/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/Jochem-Groeneweg/react-currency-formatter/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
