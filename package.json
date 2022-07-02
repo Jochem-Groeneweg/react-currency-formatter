@@ -1,6 +1,6 @@
 {
   "name": "react-format-currencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -16,5 +16,10 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-router": "^6.3.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6",
+    "@babel/preset-react": "^7.18.6"
   }
 }
