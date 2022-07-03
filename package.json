@@ -1,8 +1,11 @@
 {
   "name": "react-format-currencies",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src -d ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jochem-Groeneweg/react-currency-formatter.git"
@@ -15,11 +18,14 @@
   "homepage": "https://github.com/Jochem-Groeneweg/react-currency-formatter#readme",
   "peerDependencies": {
     "react": "^18.2.0",
-    "react-router": "^6.3.0"
+    "react-dom": "^6.3.0"
   },
   "dependencies": {
-    "@babel/core": "^7.18.6",
     "@babel/preset-env": "^7.18.6",
     "@babel/preset-react": "^7.18.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.18.6",
+    "@babel/core": "^7.18.6"
   }
 }
